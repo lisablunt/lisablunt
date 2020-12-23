@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with . . . Any bugs or issues found on my [Portfolio](https://lisablunt.github.io) site
 - 💬 Ask me about . . . My feline companion, Ms. Coco Chanel Lopez
 - 📫 How to reach me . . . [@Lisa_Blunt](http://www.twitter.com/lisa_blunt) or @yaylisabee ([Twitter](http://www.twitter.com/yaylisabee)/[IG](http://www.instagram.com/yaylisabee)/[Pinterest](http://www.pinterest.com/yaylisabee))
-- 😄 Pronouns . . . She/her
+- 😄 Pronouns . . . She/her/[TB](https://www.urbandictionary.com/define.php?term=THAT%20bitch)
 - ⚡ Fun fact . . . I'm a natural polyglot most fluent in HTML, CSS, JavaScript, and AAVE 
