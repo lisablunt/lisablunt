@@ -1,6 +1,8 @@
 # Hi, I'm Lisa 👋
 ==============
 
+![Img of typing cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 - 🔭 I’m currently working on ... (If I told you, I'd have to ... you)
 - 🌱 I’m currently learning ... Mapbox GL JS and delving deeper into Markdown
 - 👯 I’m looking to collaborate on ... Passion projects, mine and others
