@@ -2,8 +2,6 @@
 
 ***
 
-  ![Working Cat](https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif)
-
 <img align="center" src="https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif?raw=true"></a>
 
 - 🔭 I’m currently working on ... (It's a secret :zipper_mouth_face:)
