@@ -1,7 +1,6 @@
 # Hi, I'm Lisa 👩🏾‍💻
-***
 
-![Typing cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+***
 
 - 🔭 I’m currently working on ... (It's a secret :zipper_mouth_face:)
 - 🌱 I’m currently learning ... [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) and delving deeper into [Markdown](https://guides.github.com/features/mastering-markdown/)
