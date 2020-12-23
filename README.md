@@ -2,7 +2,7 @@
 
 ***
 
-![Work Cat](/img/workcat.gif)
+![Working Cat](https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif)
 
 - 🔭 I’m currently working on ... (It's a secret :zipper_mouth_face:)
 - 🌱 I’m currently learning ... [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) and delving deeper into [Markdown](https://guides.github.com/features/mastering-markdown/)
