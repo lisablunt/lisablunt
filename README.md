@@ -1,4 +1,4 @@
-# Hi, I'm Lisa a.k.a. !i$@ bee™ 👩🏾‍💻
+# Hi, I'm Lisa a.k.a. !i$@ bee™ 👩🏾‍💻 🐝
 
 ## L in a Nutshell :coconut:: <a href="https://lisablunt.github.io"><img align="left" width="250" height="300" src="https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif?raw=true"></a>
 
