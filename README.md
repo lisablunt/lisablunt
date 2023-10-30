@@ -1,6 +1,6 @@
 # Hi, I'm Lisa a.k.a. !i$@ bee™ 👩🏾‍💻🐝
 
-<a href="https://lisablunt.github.io"><img align="center" width="150" height="200" src="https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif?raw=true"></a>
+<center><a href="https://lisablunt.github.io"><width="150" height="200" src="https://github.com/lisablunt/lisablunt.github.io/blob/master/img/workcat.gif?raw=true"></a></center>
 
 ## L in a Nutshell :coconut:: 
 
